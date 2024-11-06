@@ -9,7 +9,7 @@ I believe strongly in the power of teamwork; collaborating effectively with coll
 - 🌱 Currently learning: **Python and process management to expand my automation toolkit**
 - 🔭 Working on: **Building an Excel-based inventory process and tackling large data projects**
 - 🌍 Languages: **Python, SQL**
-- 📫 How to reach me: **[[your email address or other contact information]](https://www.linkedin.com/in/deimante-andraityte/)**
+- 📫 How to reach me: **(https://www.linkedin.com/in/deimante-andraityte/)**
 - ⚡ Fun fact: **I’m on a mission to automate all my work tasks!**
 
 I'd be glad to connect if you're interested in elevating operations through efficiency and automation. Let’s work together to turn complex processes into seamless, high-performing operations.
